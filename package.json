@@ -6,7 +6,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Dmitry Kachaev <dmitry.kachaev@gmail.com>, forked by Filipe Ribeiro and Miguel Ferreira",
+    "author": "Dmitry Kachaev <dmitry.kachaev@gmail.com>, forked by Filipe Ribeiro <fribeiro@keep.pt>",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/keeps/mllp.git"
@@ -35,7 +35,7 @@
     "dependencies": {
         "hl7": "1.x.x"
     },
-    "homepage": "https://github.com/keeps/mllp#readme",
+    "homepage": "https://github.com/keeps/mllp",
     "directories": {
         "test": "test"
     },
